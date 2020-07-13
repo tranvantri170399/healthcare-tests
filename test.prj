@@ -3,9 +3,10 @@
    <description></description>
    <name>test</name>
    <tag></tag>
-   <UUID>c84650ee-cb5e-4a36-b244-5c4df96b316d</UUID>
+   <UUID>5e3efe7b-7b98-4b47-b89c-71781c7e42b3</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\tranv\Katalon Studio\DemoKatalon\test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -24,5 +25,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>

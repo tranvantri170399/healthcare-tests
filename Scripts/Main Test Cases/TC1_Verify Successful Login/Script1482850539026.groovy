@@ -33,7 +33,7 @@ WebUI.setText(findTestObject('Page_Login/txt_Password'), Password)
 
 WebUI.comment('When he logins to CURA system')
 
-WebUI.click(findTestObject('Page_Login/btn_Login'))
+WebUI.click(findTestObject('null'))
 
 WebUI.comment('Then he should be able to login successfully')
 
