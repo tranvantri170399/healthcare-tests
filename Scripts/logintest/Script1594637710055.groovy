@@ -21,9 +21,9 @@ WebUI.click(findTestObject('Page_PHPTRAVELS  Travel Technology Partner/a_My Acco
 
 WebUI.click(findTestObject('Page_PHPTRAVELS  Travel Technology Partner/a_Login'))
 
-WebUI.setText(findTestObject('Page_Login (1)/input_Login_username'), 'user@phptravels.com')
+WebUI.setText(findTestObject('Page_Login (1)/input_Login_username'), username)
 
-WebUI.setText(findTestObject('Page_Login (1)/input_Email_password'), 'demouser')
+WebUI.setText(findTestObject('Page_Login (1)/input_Email_password'), password)
 
 WebUI.verifyElementVisible(findTestObject('Page_Login (1)/label_Remember Me'))
 
